@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "item um",
+    "description": "Cor cinza, R$10,00"
+  },
+  {
+    "id": 2,
+    "name": "item dois",
+    "description": "Cor branco, R$15,00"
+  },
+  {
+    "id": 3,
+    "name": "item tres",
+    "description": "Cor preto, R$20,00"
+  },
+  {
+    "id": 4,
+    "name": "item quatro",
+    "description": "Cor azul marinho, R$25,00"
+  },
+  {
+    "id": 5,
+    "name": "item cinco",
+    "description": "Cor rosa claro, R$30,00"
+  },
+  {
+    "id": 6,
+    "name": "item seis",
+    "description": "Cor vermelho, R$30,00"
+  },
+  {
+    "id": 7,
+    "name": "item sete",
+    "description": "Cor marrom, R$35,00"
+  },
+  {
+    "id": 8,
+    "name": "item oito",
+    "description": "Cor laranja, R$40,00"
+  },
+  {
+    "id": 9,
+    "name": "item nove",
+    "description": "Cor amarelo, R$45,00"
+  },
+  {
+    "id": 10,
+    "name": "item dez",
+    "description": "Cor verde, R$50,00"
+  }
+]
